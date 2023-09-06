@@ -1,0 +1,5 @@
+model,time
+twitter-roberta-base-sentiment-latest,27.268715620040894
+bertweet-base-sentiment-analysis,27.52370572090149
+twitter-xlm-roberta-base-sentiment,30.28185534477234
+twitter-roberta-base-sentiment,29.301411151885986

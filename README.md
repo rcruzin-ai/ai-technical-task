@@ -1,1 +1,0 @@
-# ai-technical-task
